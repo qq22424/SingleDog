@@ -1,5 +1,5 @@
-  APP_ID="k3RjNuvpOJ4PH2NTnomgwJ1T-gzGzoHsz";
-  APP_KEY="rvlzROsqTjmOidizSALCeyed";
+  APP_ID="";
+  APP_KEY="";
   AV.init({
     appId: APP_ID,
     appKey: APP_KEY
